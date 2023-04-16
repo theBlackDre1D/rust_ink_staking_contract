@@ -1,0 +1,9 @@
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/wasm32-unknown-unknown/release/deps/pallet_assets_chain_extension-1963b19b3e91aaab.rmeta: /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/lib.rs /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/traits.rs /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/ink.rs
+
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/wasm32-unknown-unknown/release/deps/libpallet_assets_chain_extension-1963b19b3e91aaab.rlib: /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/lib.rs /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/traits.rs /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/ink.rs
+
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/wasm32-unknown-unknown/release/deps/pallet_assets_chain_extension-1963b19b3e91aaab.d: /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/lib.rs /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/traits.rs /Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/ink.rs
+
+/Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/lib.rs:
+/Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/traits.rs:
+/Users/seremtinameno/.cargo/git/checkouts/pallet-assets-chain-extension-ff36af532f713278/c829a88/src/ink.rs:

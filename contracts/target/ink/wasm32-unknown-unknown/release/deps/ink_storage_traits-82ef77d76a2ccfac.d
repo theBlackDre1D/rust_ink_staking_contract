@@ -1,0 +1,9 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/wasm32-unknown-unknown/release/deps/ink_storage_traits-82ef77d76a2ccfac.rmeta: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/impls/mod.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/storage.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/wasm32-unknown-unknown/release/deps/libink_storage_traits-82ef77d76a2ccfac.rlib: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/impls/mod.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/storage.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/wasm32-unknown-unknown/release/deps/ink_storage_traits-82ef77d76a2ccfac.d: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/impls/mod.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/storage.rs
+
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/impls/mod.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_storage_traits-4.0.1/src/storage.rs:

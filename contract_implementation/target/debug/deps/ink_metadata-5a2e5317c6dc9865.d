@@ -1,0 +1,9 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contract_implementation/target/debug/deps/ink_metadata-5a2e5317c6dc9865.rmeta: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contract_implementation/target/debug/deps/ink_metadata-5a2e5317c6dc9865.d: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs
+
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/mod.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/layout/validate.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/specs.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/ink_metadata-4.0.1/src/utils.rs:

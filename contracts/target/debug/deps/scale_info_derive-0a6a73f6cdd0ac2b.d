@@ -1,0 +1,8 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/debug/deps/libscale_info_derive-0a6a73f6cdd0ac2b.dylib: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/attr.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/trait_bounds.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/utils.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/debug/deps/scale_info_derive-0a6a73f6cdd0ac2b.d: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/attr.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/trait_bounds.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/utils.rs
+
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/attr.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/trait_bounds.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/scale-info-derive-2.3.1/src/utils.rs:

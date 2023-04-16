@@ -1,0 +1,1 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/release/metadata-gen: /Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/lib.rs /private/var/folders/4_/jy_rqrp171321gcqmr090h2r0000gn/T/cargo-contract_SXXxJ7/.ink/metadata_gen/main.rs

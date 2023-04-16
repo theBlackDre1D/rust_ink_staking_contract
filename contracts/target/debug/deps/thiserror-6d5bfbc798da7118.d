@@ -1,0 +1,10 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/debug/deps/thiserror-6d5bfbc798da7118.rmeta: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/provide.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/debug/deps/libthiserror-6d5bfbc798da7118.rlib: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/provide.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/debug/deps/thiserror-6d5bfbc798da7118.d: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/provide.rs
+
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/aserror.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/display.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.38/src/provide.rs:

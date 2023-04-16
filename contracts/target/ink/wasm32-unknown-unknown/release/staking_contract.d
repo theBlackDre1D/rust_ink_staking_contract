@@ -1,0 +1,1 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/wasm32-unknown-unknown/release/staking_contract.wasm: /Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/lib.rs

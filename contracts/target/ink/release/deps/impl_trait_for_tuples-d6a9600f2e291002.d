@@ -1,0 +1,8 @@
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/release/deps/libimpl_trait_for_tuples-d6a9600f2e291002.dylib: /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/release/deps/impl_trait_for_tuples-d6a9600f2e291002.d: /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs
+
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/full_automatic.rs:
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/semi_automatic.rs:
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/impl-trait-for-tuples-0.2.2/src/utils.rs:

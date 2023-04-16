@@ -1,0 +1,10 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contract_implementation/target/debug/deps/thiserror-70e14c7b8b858a16.rmeta: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contract_implementation/target/debug/deps/libthiserror-70e14c7b8b858a16.rlib: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contract_implementation/target/debug/deps/thiserror-70e14c7b8b858a16.d: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs
+
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs:

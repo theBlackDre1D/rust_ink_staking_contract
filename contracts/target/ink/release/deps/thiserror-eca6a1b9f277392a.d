@@ -1,0 +1,10 @@
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/release/deps/thiserror-eca6a1b9f277392a.rmeta: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/release/deps/libthiserror-eca6a1b9f277392a.rlib: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs
+
+/Users/seremtinameno/DATA/Programovanie/Rust/staking_contract/contracts/target/ink/release/deps/thiserror-eca6a1b9f277392a.d: /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs /Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs
+
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/aserror.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/display.rs:
+/Users/seremtinameno/.cargo/registry/src/index.crates.io-6f17d22bba15001f/thiserror-1.0.40/src/provide.rs:

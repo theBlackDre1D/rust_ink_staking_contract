@@ -1,0 +1,10 @@
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/release/deps/secp256k1_sys-f8bed714ad74262e.rmeta: /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/lib.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/macros.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/types.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/recovery.rs
+
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/release/deps/libsecp256k1_sys-f8bed714ad74262e.rlib: /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/lib.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/macros.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/types.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/recovery.rs
+
+/Users/seremtinameno/DATA/Praca/Rust/staking_contract/contracts/target/ink/release/deps/secp256k1_sys-f8bed714ad74262e.d: /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/lib.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/macros.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/types.rs /Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/recovery.rs
+
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/lib.rs:
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/macros.rs:
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/types.rs:
+/Users/seremtinameno/.cargo/registry/src/github.com-1ecc6299db9ec823/secp256k1-sys-0.8.0/src/recovery.rs:
